@@ -10,6 +10,7 @@ require (
 	github.com/alexedwards/scs/mysqlstore v0.0.0-20220216073957-c252878bcf5a
 	github.com/alexedwards/scs/postgresstore v0.0.0-20220216073957-c252878bcf5a
 	github.com/alexedwards/scs/v2 v2.5.0
+	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
 	github.com/fatih/color v1.13.0
 	github.com/gertd/go-pluralize v0.2.0
 	github.com/go-sql-driver/mysql v1.6.0
