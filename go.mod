@@ -9,21 +9,23 @@ require github.com/go-chi/chi/v5 v5.0.7
 require (
 	github.com/alexedwards/scs/mysqlstore v0.0.0-20220216073957-c252878bcf5a
 	github.com/alexedwards/scs/postgresstore v0.0.0-20220216073957-c252878bcf5a
+	github.com/alexedwards/scs/redisstore v0.0.0-20220216073957-c252878bcf5a
 	github.com/alexedwards/scs/v2 v2.5.0
+	github.com/alicebob/miniredis/v2 v2.20.0
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
 	github.com/fatih/color v1.13.0
 	github.com/gertd/go-pluralize v0.2.0
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/golang-migrate/migrate/v4 v4.15.1
+	github.com/gomodule/redigo v1.8.8
 	github.com/iancoleman/strcase v0.2.0
 	github.com/jackc/pgconn v1.11.0
 	github.com/jackc/pgx/v4 v4.15.0
+	github.com/justinas/nosurf v1.1.1
 )
 
 require (
 	github.com/alicebob/gopher-json v0.0.0-20200520072559-a9ecdc9d1d3a // indirect
-	github.com/alicebob/miniredis/v2 v2.20.0 // indirect
-	github.com/gomodule/redigo v1.8.8 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.0 // indirect
 	github.com/jackc/chunkreader/v2 v2.0.1 // indirect
