@@ -1,4 +1,6 @@
+.idea
 coverage.out
+dist/*
 /cache/testdata
 /vendor
 .DS_Store
