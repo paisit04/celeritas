@@ -14,6 +14,7 @@ require (
 	github.com/alexedwards/scs/v2 v2.5.0
 	github.com/alicebob/miniredis/v2 v2.20.0
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
+	github.com/bwmarrin/go-alone v0.0.0-20190806015146-742bb55d1631
 	github.com/dgraph-io/badger/v3 v3.2103.2
 	github.com/fatih/color v1.13.0
 	github.com/gertd/go-pluralize v0.2.0
